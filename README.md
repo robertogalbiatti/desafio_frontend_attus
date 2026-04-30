@@ -137,6 +137,12 @@ Avoiding memory leaks across the application.
 
 ---
 
+## 📋 Theoretical Questions
+
+Answers to questions 1, 2 and 3 (TypeScript, RxJS, NgRx) are documented in:
+
+👉 [RESPOSTAS.md](./RESPOSTAS.md)
+
 ## 📎 Repository
 
 > https://github.com/robertogalbiatti/desafio_frontend_attus
