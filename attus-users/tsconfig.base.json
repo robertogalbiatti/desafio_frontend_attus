@@ -1,0 +1,26 @@
+{
+  "compileOnSave": false,
+  "compilerOptions": {
+    "baseUrl": ".",
+    "rootDir": ".",
+    "sourceMap": true,
+    "declaration": false,
+    "moduleResolution": "node",
+    "emitDecoratorMetadata": true,
+    "experimentalDecorators": true,
+    "importHelpers": true,
+    "target": "es2015",
+    "module": "esnext",
+    "lib": ["es2020", "dom"],
+    "skipLibCheck": true,
+    "skipDefaultLibCheck": true,
+    "paths": {
+      "@attus-users/ui": ["libs/users/ui/users/src/index.ts"],
+      "@attus-users/data-access-users": [
+        "libs/users/data-access/users/src/index.ts"
+      ],
+      "@attus-users/users": ["libs/users/feature/users/src/index.ts"]
+    }
+  },
+  "exclude": ["node_modules", "tmp"]
+}

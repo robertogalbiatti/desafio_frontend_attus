@@ -1,0 +1,10 @@
+<h2>Usuários</h2>
+
+<button (click)="prevPage()">Anterior</button>
+<button (click)="nextPage()">Próxima</button>
+
+<div *ngIf="loading">Carregando...</div>
+
+<ui-card *ngFor="let user of users">
+  {{ user.name }} - {{ user.email }}
+</ui-card>
