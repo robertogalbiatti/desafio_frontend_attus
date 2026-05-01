@@ -1,0 +1,421 @@
+{
+  "version": "6.0",
+  "nxVersion": "22.7.1",
+  "pathMappings": {},
+  "nxJsonPlugins": [],
+  "fileMap": {
+    "projectFileMap": {
+      "attus-users": [
+        {
+          "file": "attus-users/apps/attus-users/eslint.config.mjs",
+          "hash": "11999635802406141026"
+        },
+        {
+          "file": "attus-users/apps/attus-users/jest.config.cts",
+          "hash": "4360502508716734510"
+        },
+        {
+          "file": "attus-users/apps/attus-users/project.json",
+          "hash": "13006603275723847353"
+        },
+        {
+          "file": "attus-users/apps/attus-users/public/favicon.ico",
+          "hash": "9303420814833116677"
+        },
+        {
+          "file": "attus-users/apps/attus-users/src/app/app.component.html",
+          "hash": "11987652264972370457"
+        },
+        {
+          "file": "attus-users/apps/attus-users/src/app/app.component.ts",
+          "hash": "16899747945097076261"
+        },
+        {
+          "file": "attus-users/apps/attus-users/src/app/app.config.server.ts",
+          "hash": "16664769899172877666"
+        },
+        {
+          "file": "attus-users/apps/attus-users/src/app/app.config.ts",
+          "hash": "2705505458140564383"
+        },
+        {
+          "file": "attus-users/apps/attus-users/src/app/app.routes.server.ts",
+          "hash": "16960858348243221237"
+        },
+        {
+          "file": "attus-users/apps/attus-users/src/app/app.routes.ts",
+          "hash": "15394349356927585128"
+        },
+        {
+          "file": "attus-users/apps/attus-users/src/app/app.scss",
+          "hash": "3244421341483603138"
+        },
+        {
+          "file": "attus-users/apps/attus-users/src/app/app.spec.ts",
+          "hash": "7052190319718049953"
+        },
+        {
+          "file": "attus-users/apps/attus-users/src/app/nx-welcome.ts",
+          "hash": "9066932324131459013"
+        },
+        {
+          "file": "attus-users/apps/attus-users/src/index.html",
+          "hash": "3916188455540054573"
+        },
+        {
+          "file": "attus-users/apps/attus-users/src/main.server.ts",
+          "hash": "1023410455808282160"
+        },
+        {
+          "file": "attus-users/apps/attus-users/src/main.ts",
+          "hash": "3184818857482139009"
+        },
+        {
+          "file": "attus-users/apps/attus-users/src/server.ts",
+          "hash": "4501044531871950503"
+        },
+        {
+          "file": "attus-users/apps/attus-users/src/styles.scss",
+          "hash": "5195668842064076916"
+        },
+        {
+          "file": "attus-users/apps/attus-users/src/test-setup.ts",
+          "hash": "13317557134094625390"
+        },
+        {
+          "file": "attus-users/apps/attus-users/tsconfig.app.json",
+          "hash": "16649649610146393033"
+        },
+        {
+          "file": "attus-users/apps/attus-users/tsconfig.json",
+          "hash": "16004134237605501702"
+        },
+        {
+          "file": "attus-users/apps/attus-users/tsconfig.spec.json",
+          "hash": "5331518322626158299"
+        }
+      ],
+      "ui": [
+        {
+          "file": "attus-users/libs/users/ui/users/src/lib/README.md",
+          "hash": "3098996868279451883"
+        },
+        {
+          "file": "attus-users/libs/users/ui/users/src/lib/components/button/ui-button.component.ts",
+          "hash": "9193160838923556035"
+        },
+        {
+          "file": "attus-users/libs/users/ui/users/src/lib/components/card/ui-card.component.ts",
+          "hash": "13174331640609599542"
+        },
+        {
+          "file": "attus-users/libs/users/ui/users/src/lib/components/input/ui-input.component.ts",
+          "hash": "10225996986331203677"
+        },
+        {
+          "file": "attus-users/libs/users/ui/users/src/lib/eslint.config.mjs",
+          "hash": "11597483048386829367"
+        },
+        {
+          "file": "attus-users/libs/users/ui/users/src/lib/jest.config.cts",
+          "hash": "6817302761891700762"
+        },
+        {
+          "file": "attus-users/libs/users/ui/users/src/lib/project.json",
+          "hash": "4627434405121987902"
+        },
+        {
+          "file": "attus-users/libs/users/ui/users/src/lib/tsconfig.json",
+          "hash": "11892838803575319959"
+        },
+        {
+          "file": "attus-users/libs/users/ui/users/src/lib/tsconfig.lib.json",
+          "hash": "6521222695367069647"
+        },
+        {
+          "file": "attus-users/libs/users/ui/users/src/lib/tsconfig.spec.json",
+          "hash": "5331518322626158299"
+        }
+      ],
+      "users": [
+        {
+          "file": "attus-users/libs/users/feature/users/src/lib/README.md",
+          "hash": "1697122584494082199"
+        },
+        {
+          "file": "attus-users/libs/users/feature/users/src/lib/eslint.config.mjs",
+          "hash": "6568359459945921188"
+        },
+        {
+          "file": "attus-users/libs/users/feature/users/src/lib/jest.config.cts",
+          "hash": "17647016404309777068"
+        },
+        {
+          "file": "attus-users/libs/users/feature/users/src/lib/pages/users-form/users-form.component.html",
+          "hash": "9396827693555709441"
+        },
+        {
+          "file": "attus-users/libs/users/feature/users/src/lib/pages/users-form/users-form.component.ts",
+          "hash": "16568412665569059283"
+        },
+        {
+          "file": "attus-users/libs/users/feature/users/src/lib/pages/users-list/users-list.component.html",
+          "hash": "6922205394753485931"
+        },
+        {
+          "file": "attus-users/libs/users/feature/users/src/lib/pages/users-list/users-list.component.ts",
+          "hash": "4919886532182075839"
+        },
+        {
+          "file": "attus-users/libs/users/feature/users/src/lib/project.json",
+          "hash": "10399112587808944537"
+        },
+        {
+          "file": "attus-users/libs/users/feature/users/src/lib/tsconfig.json",
+          "hash": "11892838803575319959"
+        },
+        {
+          "file": "attus-users/libs/users/feature/users/src/lib/tsconfig.lib.json",
+          "hash": "3561473783913970571"
+        },
+        {
+          "file": "attus-users/libs/users/feature/users/src/lib/tsconfig.spec.json",
+          "hash": "14905648868291044079"
+        }
+      ],
+      "data-access-users": [
+        {
+          "file": "attus-users/libs/users/data-access/users/src/lib/README.md",
+          "hash": "18321047503183194616"
+        },
+        {
+          "file": "attus-users/libs/users/data-access/users/src/lib/eslint.config.mjs",
+          "hash": "11597483048386829367"
+        },
+        {
+          "file": "attus-users/libs/users/data-access/users/src/lib/jest.config.cts",
+          "hash": "16925624311985577538"
+        },
+        {
+          "file": "attus-users/libs/users/data-access/users/src/lib/models/user.model.ts",
+          "hash": "3036287337171882811"
+        },
+        {
+          "file": "attus-users/libs/users/data-access/users/src/lib/project.json",
+          "hash": "15403639016043400677"
+        },
+        {
+          "file": "attus-users/libs/users/data-access/users/src/lib/services/users.service.ts",
+          "hash": "6671106121543679093"
+        },
+        {
+          "file": "attus-users/libs/users/data-access/users/src/lib/test-setup.ts",
+          "hash": "13317557134094625390"
+        },
+        {
+          "file": "attus-users/libs/users/data-access/users/src/lib/tsconfig.json",
+          "hash": "11892838803575319959"
+        },
+        {
+          "file": "attus-users/libs/users/data-access/users/src/lib/tsconfig.lib.json",
+          "hash": "6521222695367069647"
+        },
+        {
+          "file": "attus-users/libs/users/data-access/users/src/lib/tsconfig.spec.json",
+          "hash": "5331518322626158299"
+        },
+        {
+          "file": "attus-users/libs/users/data-access/users/src/lib/utils/cpf.validator.ts",
+          "hash": "5353036668279540163"
+        }
+      ]
+    },
+    "nonProjectFiles": [
+      {
+        "file": ".editorconfig",
+        "hash": "17241496168097493888"
+      },
+      {
+        "file": ".gitignore",
+        "hash": "10175894702052279752"
+      },
+      {
+        "file": ".vscode/extensions.json",
+        "hash": "11934160580685414355"
+      },
+      {
+        "file": ".vscode/launch.json",
+        "hash": "17406702432687230417"
+      },
+      {
+        "file": ".vscode/tasks.json",
+        "hash": "10093397977228577162"
+      },
+      {
+        "file": "README.md",
+        "hash": "2553988738615576063"
+      },
+      {
+        "file": "RESPOSTAS.md",
+        "hash": "11684395617923915747"
+      },
+      {
+        "file": "angular.json",
+        "hash": "1918831168350313159"
+      },
+      {
+        "file": "attus-users/.editorconfig",
+        "hash": "5443105041930014821"
+      },
+      {
+        "file": "attus-users/.gitignore",
+        "hash": "11681346040584619379"
+      },
+      {
+        "file": "attus-users/.prettierignore",
+        "hash": "5407418692668764289"
+      },
+      {
+        "file": "attus-users/.prettierrc",
+        "hash": "16267754514737964994"
+      },
+      {
+        "file": "attus-users/.vscode/extensions.json",
+        "hash": "4637156562308165301"
+      },
+      {
+        "file": "attus-users/README.md",
+        "hash": "16230801141738458668"
+      },
+      {
+        "file": "attus-users/eslint.config.mjs",
+        "hash": "12926286793420397906"
+      },
+      {
+        "file": "attus-users/jest.config.ts",
+        "hash": "6870352021923392442"
+      },
+      {
+        "file": "attus-users/jest.preset.js",
+        "hash": "9430166341120122740"
+      },
+      {
+        "file": "attus-users/libs/users/data-access/users/src/index.ts",
+        "hash": "8477600371428813251"
+      },
+      {
+        "file": "attus-users/libs/users/feature/users/src/feature-users.routes.ts",
+        "hash": "2362798973338166725"
+      },
+      {
+        "file": "attus-users/libs/users/feature/users/src/index.ts",
+        "hash": "8995222870421462942"
+      },
+      {
+        "file": "attus-users/libs/users/feature/users/src/test-setup.ts",
+        "hash": "13317557134094625390"
+      },
+      {
+        "file": "attus-users/libs/users/ui/users/src/index.ts",
+        "hash": "4990241238353856350"
+      },
+      {
+        "file": "attus-users/libs/users/ui/users/src/test-setup.ts",
+        "hash": "13317557134094625390"
+      },
+      {
+        "file": "attus-users/nx.json",
+        "hash": "17905744331994614164"
+      },
+      {
+        "file": "attus-users/package-lock.json",
+        "hash": "12860417958116587557"
+      },
+      {
+        "file": "attus-users/package.json",
+        "hash": "8252582210471544714"
+      },
+      {
+        "file": "attus-users/tsconfig.base.json",
+        "hash": "12259666599226905880"
+      },
+      {
+        "file": "package-lock.json",
+        "hash": "2771571375520114901"
+      },
+      {
+        "file": "package.json",
+        "hash": "16981311591918722098"
+      },
+      {
+        "file": "server.ts",
+        "hash": "17556996765790181515"
+      },
+      {
+        "file": "src/app/app.component.html",
+        "hash": "11358065693346708359"
+      },
+      {
+        "file": "src/app/app.component.scss",
+        "hash": "3244421341483603138"
+      },
+      {
+        "file": "src/app/app.component.spec.ts",
+        "hash": "10709087164683897861"
+      },
+      {
+        "file": "src/app/app.component.ts",
+        "hash": "13441948902230993007"
+      },
+      {
+        "file": "src/app/app.config.server.ts",
+        "hash": "15184490126418035619"
+      },
+      {
+        "file": "src/app/app.config.ts",
+        "hash": "12630557031237925337"
+      },
+      {
+        "file": "src/app/app.routes.ts",
+        "hash": "809736233805555256"
+      },
+      {
+        "file": "src/assets/.gitkeep",
+        "hash": "3244421341483603138"
+      },
+      {
+        "file": "src/favicon.ico",
+        "hash": "3988961587069885523"
+      },
+      {
+        "file": "src/index.html",
+        "hash": "17650970145540706059"
+      },
+      {
+        "file": "src/main.server.ts",
+        "hash": "9257623809215978365"
+      },
+      {
+        "file": "src/main.ts",
+        "hash": "4169901790405087765"
+      },
+      {
+        "file": "src/styles.scss",
+        "hash": "2917954890128038984"
+      },
+      {
+        "file": "tsconfig.app.json",
+        "hash": "2442507913137902887"
+      },
+      {
+        "file": "tsconfig.json",
+        "hash": "3200458784466797971"
+      },
+      {
+        "file": "tsconfig.spec.json",
+        "hash": "5122839733245053999"
+      }
+    ]
+  },
+  "externalNodesHash": "4307666724218064310"
+}

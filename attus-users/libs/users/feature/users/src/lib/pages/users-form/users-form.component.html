@@ -1,0 +1,8 @@
+<form [formGroup]="form" (ngSubmit)="submit()">
+  <ui-input label="Nome" [control]="form.controls.name"></ui-input>
+  <ui-input label="Email" [control]="form.controls.email"></ui-input>
+  <ui-input label="CPF" [control]="form.controls.cpf"></ui-input>
+  <ui-input label="Telefone" [control]="form.controls.phone"></ui-input>
+
+  <ui-button>Salvar</ui-button>
+</form>

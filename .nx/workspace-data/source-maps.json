@@ -1,0 +1,418 @@
+{
+  "attus-users/apps/attus-users": {
+    "root": [
+      "attus-users/apps/attus-users/project.json",
+      "nx/core/project-json"
+    ],
+    "name": [
+      "attus-users/apps/attus-users/project.json",
+      "nx/core/project-json"
+    ],
+    "$schema": [
+      "attus-users/apps/attus-users/project.json",
+      "nx/core/project-json"
+    ],
+    "projectType": [
+      "attus-users/apps/attus-users/project.json",
+      "nx/core/project-json"
+    ],
+    "prefix": [
+      "attus-users/apps/attus-users/project.json",
+      "nx/core/project-json"
+    ],
+    "sourceRoot": [
+      "attus-users/apps/attus-users/project.json",
+      "nx/core/project-json"
+    ],
+    "tags": [
+      "attus-users/apps/attus-users/project.json",
+      "nx/core/project-json"
+    ],
+    "targets": [
+      "attus-users/apps/attus-users/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build": [
+      "attus-users/apps/attus-users/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.executor": [
+      "attus-users/apps/attus-users/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.outputs": [
+      "attus-users/apps/attus-users/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.options": [
+      "attus-users/apps/attus-users/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.configurations": [
+      "attus-users/apps/attus-users/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.defaultConfiguration": [
+      "attus-users/apps/attus-users/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.options.outputPath": [
+      "attus-users/apps/attus-users/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.options.browser": [
+      "attus-users/apps/attus-users/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.options.tsConfig": [
+      "attus-users/apps/attus-users/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.options.inlineStyleLanguage": [
+      "attus-users/apps/attus-users/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.options.assets": [
+      "attus-users/apps/attus-users/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.options.styles": [
+      "attus-users/apps/attus-users/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.options.server": [
+      "attus-users/apps/attus-users/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.options.ssr": [
+      "attus-users/apps/attus-users/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.options.outputMode": [
+      "attus-users/apps/attus-users/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.configurations.production": [
+      "attus-users/apps/attus-users/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.configurations.production.budgets": [
+      "attus-users/apps/attus-users/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.configurations.production.outputHashing": [
+      "attus-users/apps/attus-users/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.configurations.development": [
+      "attus-users/apps/attus-users/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.configurations.development.optimization": [
+      "attus-users/apps/attus-users/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.configurations.development.extractLicenses": [
+      "attus-users/apps/attus-users/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.configurations.development.sourceMap": [
+      "attus-users/apps/attus-users/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve": [
+      "attus-users/apps/attus-users/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve.continuous": [
+      "attus-users/apps/attus-users/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve.executor": [
+      "attus-users/apps/attus-users/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve.configurations": [
+      "attus-users/apps/attus-users/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve.defaultConfiguration": [
+      "attus-users/apps/attus-users/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve.configurations.production": [
+      "attus-users/apps/attus-users/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve.configurations.production.buildTarget": [
+      "attus-users/apps/attus-users/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve.configurations.development": [
+      "attus-users/apps/attus-users/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve.configurations.development.buildTarget": [
+      "attus-users/apps/attus-users/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.lint": [
+      "attus-users/apps/attus-users/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.lint.executor": [
+      "attus-users/apps/attus-users/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.test": [
+      "attus-users/apps/attus-users/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.test.executor": [
+      "attus-users/apps/attus-users/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.test.outputs": [
+      "attus-users/apps/attus-users/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.test.options": [
+      "attus-users/apps/attus-users/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.test.options.jestConfig": [
+      "attus-users/apps/attus-users/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.test.options.tsConfig": [
+      "attus-users/apps/attus-users/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve-static": [
+      "attus-users/apps/attus-users/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve-static.continuous": [
+      "attus-users/apps/attus-users/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve-static.executor": [
+      "attus-users/apps/attus-users/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve-static.options": [
+      "attus-users/apps/attus-users/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve-static.options.buildTarget": [
+      "attus-users/apps/attus-users/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve-static.options.staticFilePath": [
+      "attus-users/apps/attus-users/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve-static.options.spa": [
+      "attus-users/apps/attus-users/project.json",
+      "nx/core/project-json"
+    ]
+  },
+  "attus-users/libs/users/data-access/users/src/lib": {
+    "root": [
+      "attus-users/libs/users/data-access/users/src/lib/project.json",
+      "nx/core/project-json"
+    ],
+    "name": [
+      "attus-users/libs/users/data-access/users/src/lib/project.json",
+      "nx/core/project-json"
+    ],
+    "$schema": [
+      "attus-users/libs/users/data-access/users/src/lib/project.json",
+      "nx/core/project-json"
+    ],
+    "sourceRoot": [
+      "attus-users/libs/users/data-access/users/src/lib/project.json",
+      "nx/core/project-json"
+    ],
+    "prefix": [
+      "attus-users/libs/users/data-access/users/src/lib/project.json",
+      "nx/core/project-json"
+    ],
+    "projectType": [
+      "attus-users/libs/users/data-access/users/src/lib/project.json",
+      "nx/core/project-json"
+    ],
+    "tags": [
+      "attus-users/libs/users/data-access/users/src/lib/project.json",
+      "nx/core/project-json"
+    ],
+    "targets": [
+      "attus-users/libs/users/data-access/users/src/lib/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.test": [
+      "attus-users/libs/users/data-access/users/src/lib/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.test.executor": [
+      "attus-users/libs/users/data-access/users/src/lib/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.test.outputs": [
+      "attus-users/libs/users/data-access/users/src/lib/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.test.options": [
+      "attus-users/libs/users/data-access/users/src/lib/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.test.options.jestConfig": [
+      "attus-users/libs/users/data-access/users/src/lib/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.test.options.tsConfig": [
+      "attus-users/libs/users/data-access/users/src/lib/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.lint": [
+      "attus-users/libs/users/data-access/users/src/lib/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.lint.executor": [
+      "attus-users/libs/users/data-access/users/src/lib/project.json",
+      "nx/core/project-json"
+    ]
+  },
+  "attus-users/libs/users/feature/users/src/lib": {
+    "root": [
+      "attus-users/libs/users/feature/users/src/lib/project.json",
+      "nx/core/project-json"
+    ],
+    "name": [
+      "attus-users/libs/users/feature/users/src/lib/project.json",
+      "nx/core/project-json"
+    ],
+    "$schema": [
+      "attus-users/libs/users/feature/users/src/lib/project.json",
+      "nx/core/project-json"
+    ],
+    "sourceRoot": [
+      "attus-users/libs/users/feature/users/src/lib/project.json",
+      "nx/core/project-json"
+    ],
+    "prefix": [
+      "attus-users/libs/users/feature/users/src/lib/project.json",
+      "nx/core/project-json"
+    ],
+    "projectType": [
+      "attus-users/libs/users/feature/users/src/lib/project.json",
+      "nx/core/project-json"
+    ],
+    "tags": [
+      "attus-users/libs/users/feature/users/src/lib/project.json",
+      "nx/core/project-json"
+    ],
+    "targets": [
+      "attus-users/libs/users/feature/users/src/lib/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.test": [
+      "attus-users/libs/users/feature/users/src/lib/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.test.executor": [
+      "attus-users/libs/users/feature/users/src/lib/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.test.outputs": [
+      "attus-users/libs/users/feature/users/src/lib/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.test.options": [
+      "attus-users/libs/users/feature/users/src/lib/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.test.options.jestConfig": [
+      "attus-users/libs/users/feature/users/src/lib/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.test.options.tsConfig": [
+      "attus-users/libs/users/feature/users/src/lib/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.lint": [
+      "attus-users/libs/users/feature/users/src/lib/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.lint.executor": [
+      "attus-users/libs/users/feature/users/src/lib/project.json",
+      "nx/core/project-json"
+    ]
+  },
+  "attus-users/libs/users/ui/users/src/lib": {
+    "root": [
+      "attus-users/libs/users/ui/users/src/lib/project.json",
+      "nx/core/project-json"
+    ],
+    "name": [
+      "attus-users/libs/users/ui/users/src/lib/project.json",
+      "nx/core/project-json"
+    ],
+    "$schema": [
+      "attus-users/libs/users/ui/users/src/lib/project.json",
+      "nx/core/project-json"
+    ],
+    "sourceRoot": [
+      "attus-users/libs/users/ui/users/src/lib/project.json",
+      "nx/core/project-json"
+    ],
+    "prefix": [
+      "attus-users/libs/users/ui/users/src/lib/project.json",
+      "nx/core/project-json"
+    ],
+    "projectType": [
+      "attus-users/libs/users/ui/users/src/lib/project.json",
+      "nx/core/project-json"
+    ],
+    "tags": [
+      "attus-users/libs/users/ui/users/src/lib/project.json",
+      "nx/core/project-json"
+    ],
+    "targets": [
+      "attus-users/libs/users/ui/users/src/lib/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.test": [
+      "attus-users/libs/users/ui/users/src/lib/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.test.executor": [
+      "attus-users/libs/users/ui/users/src/lib/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.test.outputs": [
+      "attus-users/libs/users/ui/users/src/lib/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.test.options": [
+      "attus-users/libs/users/ui/users/src/lib/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.test.options.jestConfig": [
+      "attus-users/libs/users/ui/users/src/lib/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.test.options.tsConfig": [
+      "attus-users/libs/users/ui/users/src/lib/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.lint": [
+      "attus-users/libs/users/ui/users/src/lib/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.lint.executor": [
+      "attus-users/libs/users/ui/users/src/lib/project.json",
+      "nx/core/project-json"
+    ]
+  }
+}
